@@ -1,2 +1,2 @@
 # vk_parser
-# vk_parser
+# Нужен сервисный ключ доступа (token)
