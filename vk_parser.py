@@ -41,3 +41,4 @@ def file_writer(all_posts):
             a_pen.writerow((post['likes']['count'], post['text'], img_url))
 all_posts = take_n_posts()
 file_writer(all_posts)
+
